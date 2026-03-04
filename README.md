@@ -230,14 +230,13 @@ TensorFlow handles this automatically during `model.fit()`.
 
 - [Pima Indians Diabetes Dataset — UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/diabetes)
 - [TensorFlow / Keras Documentation](https://www.tensorflow.org/api_docs/python/tf/keras)
-- [GoMyCode Deep Learning Curriculum](https://gomycode.com)
-- Reference notebook: `audiobooks_dl.ipynb` (GoMyCode)
 
 ---
 
 ## Author
 
-**GoMyCode Student Checkpoint Submission**
+**
+Sobowale Ahmed
 Deep Learning Module — Simple Neural Network
 
 ---
